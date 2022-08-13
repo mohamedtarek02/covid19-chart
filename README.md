@@ -1,5 +1,7 @@
 # covid-19-visualization
 
+Live site https://covid19-chartt.herokuapp.com/
+
 ## Project setup
 ```
 npm install
